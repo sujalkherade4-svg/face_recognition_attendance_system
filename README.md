@@ -262,7 +262,7 @@ The system successfully automates attendance management using face recognition t
 
 **Sujal Kherade**
 
-Bachelor of Computer Applications (BCA)
+BSc.IT
 
 Academic Project – Advanced Face Recognition Attendance System
 
